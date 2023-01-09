@@ -1,0 +1,6 @@
+.settings/
+.build/
+
+# sts
+.classpath
+.project
